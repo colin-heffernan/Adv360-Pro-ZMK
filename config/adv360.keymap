@@ -48,7 +48,7 @@
             >;
         };
 
-        layer_gaming {
+        layer_GAME {
             bindings = <
   &none   &kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4            &kp NUMBER_5                                                   &trans  &trans  &trans     &trans      &trans     &trans  &trans
   &none     &kp TAB   &kp Q   &kp W   &kp E   &kp R                   &kp T                                                   &trans   &kp Y   &kp U      &kp I       &kp O      &kp P  &trans
@@ -58,7 +58,7 @@
             >;
         };
 
-        layer_fn {
+        layer_FN {
             bindings = <
  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6             &none                                                   &sl 3  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans   &trans   &trans   &trans
@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_HDN {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
@@ -88,7 +88,7 @@
             >;
         };
 
-        layer_Layer__5 {
+        layer_SYM {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
@@ -98,7 +98,7 @@
             >;
         };
 
-        layer_Layer__6 {
+        layer_NAV {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans

@@ -3,13 +3,13 @@
   "keymap": "default",
   "layout": "LAYOUT",
   "layer_names": [
-    "base",
-    "gaming",
-    "fn",
+    "BASE",
+    "GAME",
+    "FN",
     "mod",
-    "Layer #4",
-    "Layer #5",
-    "Layer #6"
+    "HDN",
+    "SYM",
+    "NAV"
   ],
   "layers": [
     [
